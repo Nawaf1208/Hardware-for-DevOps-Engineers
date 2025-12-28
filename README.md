@@ -1,5 +1,7 @@
 # Hardware-for-DevOps-Engineers
 
+![](Hardware.png)
+
 **_1.What is a CPU?_**
 
 - A central processing unit (CPU) performs basic arithmetic, logic, controlling, and input/output (I/O) operations specified by the instructions in the program. This contrasts with external components such as main memory and I/O circuitry, and specialized processors such as graphics processing units (GPUs).
